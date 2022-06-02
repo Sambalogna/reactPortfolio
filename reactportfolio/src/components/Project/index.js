@@ -14,8 +14,7 @@ function Project(props) {
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                            Create a random date with randomly selected data ideas.
                             </Card.Text>
                             <Button variant="primary">Go somewhere</Button>
                         </Card.Body>
@@ -27,8 +26,7 @@ function Project(props) {
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                            Subscribe to a team and recieve an email.
                             </Card.Text>
                             <Button variant="primary">Go somewhere</Button>
                         </Card.Body>
@@ -40,8 +38,7 @@ function Project(props) {
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                            Check the weather by search!
                             </Card.Text>
                             <Button variant="primary">Go somewhere</Button>
                         </Card.Body>
@@ -53,8 +50,7 @@ function Project(props) {
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                            A simple web app to generate a password to your specifications
                             </Card.Text>
                             <Button variant="primary">Go somewhere</Button>
                         </Card.Body>
@@ -62,20 +58,6 @@ function Project(props) {
                 </Col>
             </Row>
         </Container>
-
-
-        // <div className="container">
-        //     <div className="row justify-content-center">
-        //         <div className="card text-white bg-dark Col-md-4 border-dark" style="width: 18rem;">
-        //             <img src="/assets/" className="card-img-top" alt="projects" height="200px" width="200px" />
-        //             <div className="card-body">
-        //             <h5 className="card-title"></h5>
-        //             <p className="card-text">Hello</p>
-        //             <a href="{{projectURL}}" className="btn btn-primary">Visit </a>
-        //             </div>
-        //         </div>
-        //     </div>
-        // </div>
 
     )
 }

@@ -1,19 +1,30 @@
 .bg-myNavBg {
     background-color: crimson;
 }
+.footer{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    
+}
 
 .footerContent {
     color: aliceblue;
 }
-
 .footerList li {
     display: inline;
     padding-right: 3%;
     
 }
+.footerList{
+    margin-bottom: -20px;
+}
 .footerList li a {
     text-decoration: none;
 }
 .projectCard{
-    margin-top: 75px;
+    margin-top: 15px;
+}
+.projectRow {
+    margin-bottom: 15px;
 }

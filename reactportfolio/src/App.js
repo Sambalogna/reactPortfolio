@@ -1,12 +1,12 @@
 import React from "react";
 import Footer from "./components/Footer/index";
-import Nav from "./components/Navbar/index"
-import Project from "./components/Project/Project";
+import Navigation from "./components/Navbar/index"
+import Project from "./components/Project/index";
 import './App.css'
 function App() {
   return (
     <div className="app">
-      <Nav />
+      <Navigation />
       <Project />
       <Footer />
     </div>

@@ -10,7 +10,7 @@ function Project(props) {
             <Row className="justify-content-center projectRow">
                 <Col md={6}>
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={dnc}/>
+                        <Card.Img className="imag" variant="top" src={dnc}/>
                         <Card.Body>
                             <Card.Title>Date Night</Card.Title>
                             <Card.Text>
@@ -22,7 +22,7 @@ function Project(props) {
                 </Col>
                 <Col md={6}>
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={subscriber} />
+                        <Card.Img className="imag" variant="top" src={subscriber} />
                         <Card.Body>
                             <Card.Title>Subscribe-o-matic</Card.Title>
                             <Card.Text>
@@ -34,7 +34,7 @@ function Project(props) {
                 </Col>
                 <Col md={6}>
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={weather} />
+                        <Card.Img className="imag" variant="top" src={weather} />
                         <Card.Body>
                             <Card.Title>Weather Search</Card.Title>
                             <Card.Text>
@@ -46,7 +46,7 @@ function Project(props) {
                 </Col>
                 <Col md={6}>
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={passgen} />
+                        <Card.Img className="imag" variant="top" src={passgen} />
                         <Card.Body>
                             <Card.Title>Generate Password</Card.Title>
                             <Card.Text>

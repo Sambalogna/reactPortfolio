@@ -10,6 +10,7 @@
 
 .footerContent {
     color: aliceblue;
+    padding-top: 10%;
 }
 .footerList li {
     display: inline;
@@ -27,4 +28,9 @@
 }
 .projectRow {
     margin-bottom: 15px;
+}
+
+.imag {
+    height: 200px;
+    width: 100px;
 }

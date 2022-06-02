@@ -16,7 +16,7 @@ function Project(props) {
                             <Card.Text>
                             Create a random date with randomly selected data ideas.
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <a href="https://sfzmango.github.io/date-night-and-chill/"><Button variant="primary">Visit Date Night</Button></a>
                         </Card.Body>
                     </Card>
                 </Col>
@@ -28,7 +28,7 @@ function Project(props) {
                             <Card.Text>
                             Subscribe to a team and recieve an email.
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <a href="https://subscribe-o-matic.herokuapp.com/"><Button variant="primary">Visit Subscribe-o-matic</Button></a>
                         </Card.Body>
                     </Card>
                 </Col>
@@ -40,7 +40,7 @@ function Project(props) {
                             <Card.Text>
                             Check the weather by search!
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <a href="https://sambalogna.github.io/weatherDashboard/"><Button variant="primary">Visit Weather Dashboard</Button></a>
                         </Card.Body>
                     </Card>
                 </Col>
@@ -52,7 +52,7 @@ function Project(props) {
                             <Card.Text>
                             A simple web app to generate a password to your specifications
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <a href="https://sambalogna.github.io/RandomPassword/"><Button variant="primary">Visit Random password</Button></a>
                         </Card.Body>
                     </Card>
                 </Col>

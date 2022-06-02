@@ -12,7 +12,7 @@ function Project(props) {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={dnc}/>
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Date Night</Card.Title>
                             <Card.Text>
                             Create a random date with randomly selected data ideas.
                             </Card.Text>
@@ -24,7 +24,7 @@ function Project(props) {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={subscriber} />
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Subscribe-o-matic</Card.Title>
                             <Card.Text>
                             Subscribe to a team and recieve an email.
                             </Card.Text>
@@ -36,7 +36,7 @@ function Project(props) {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={weather} />
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Weather Search</Card.Title>
                             <Card.Text>
                             Check the weather by search!
                             </Card.Text>
@@ -48,7 +48,7 @@ function Project(props) {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={passgen} />
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Generate Password</Card.Title>
                             <Card.Text>
                             A simple web app to generate a password to your specifications
                             </Card.Text>
